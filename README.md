@@ -5,4 +5,4 @@ Requirements:
 Account on twilio (trial will work only with registered number)
 
 To be added:
-SQL for credential management
+SQLite for credential management
